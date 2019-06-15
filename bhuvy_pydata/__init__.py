@@ -49,16 +49,16 @@ lines.solid_capstyle: butt
 # Axes
 axes.titlesize: 16
 axes.labelsize: 12
-axes.labelcolor: 657b83
-axes.facecolor: 9EBBD4
-axes.edgecolor: 00000
+axes.labelcolor: 000000
+axes.facecolor: B2CEE6
+axes.edgecolor: 000000
 axes.axisbelow: True
 axes.prop_cycle: cycler('color', ['268BD2', '2AA198', '859900', 'B58900', 'CB4B16', 'DC322F', 'D33682', '6C71C4'])
 axes.spines.top: False
 axes.spines.right: False
 
 axes.grid: True
-grid.color: fdf6e3
+grid.color: FFFFFF
 
 grid.linestyle: -
 grid.linewidth: 1
